@@ -1,9 +1,0 @@
-Smith,Adam,10,10,2000,abc@email.com,gaming;music;learning,rollerskating;travelling
-Baker,Berny,12,12,1990,bcd@hotmail.com,art;crafts;drawing,flying
-Lenerly,Gover,8,8,1999,ahw@email.com,karate,teaching;tutoring
-Naver,Lilly,1,1,1998,asd@email.com,art;crafts;drawing,flying
-Arnold,Peter,1,1,1998,asd@email.com,art;crafts;drawing,flying
-Penkin,Kevin,1,1,1998,asd@email.com,art;crafts;drawing,flying
-Penkin,Evin,1,1,1998,asd@email.com,art;crafts;drawing,flying
-Penkin,Bevin,1,1,1998,asd@email.com,art;crafts;drawing,flying
-Penkin,Evin,1,1,1998,asd@email.com,art;crafts;drawing,flying
